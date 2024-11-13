@@ -13,7 +13,7 @@ export default function Menu() {
         <div className='menu-grid'>
             <MenuCard 
                 title="Vanilla Swirl" 
-                image="/Vanilla Swirl (cup).webp" 
+                image="/Vanilla Swirl.webp" 
                 price="PKR 140" 
             />
             <MenuCard 
@@ -28,7 +28,7 @@ export default function Menu() {
             />
             <MenuCard 
                 title="Vanilla Swirl" 
-                image="/Vanilla Swirl (cup).webp" 
+                image="/Vanilla Swirl.webp" 
                 price="PKR 140" 
             />
         </div>
